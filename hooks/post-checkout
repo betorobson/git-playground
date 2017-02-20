@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# fork from https://gist.github.com/jakemhiller/d342ad51505addf78ec628a16fd3280f
 
 changed_files="$(git diff-tree -r --name-only --no-commit-id $1 $2)"
 
