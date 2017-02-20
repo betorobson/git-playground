@@ -11,5 +11,9 @@ check_run() {
 }
 
 # Example usage
+
 # In this example it's used to run `npm install` if package.json changed
 check_run package.json "npm prune && npm install"
+
+# In this example it's used to run `bower install` if bower.json changed
+check_run bower.json "bower prune && bower install"
