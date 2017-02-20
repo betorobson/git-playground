@@ -17,6 +17,7 @@
     "angular": "^1.6.2",
     "angular-route": "^1.6.2",
     "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0",
     "gulp-order": "^1.1.1"
   }
 }
