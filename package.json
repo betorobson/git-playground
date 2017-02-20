@@ -15,7 +15,6 @@
   "homepage": "https://bitbucket.org/betorobson/git-test#readme",
   "devDependencies": {
     "angular": "^1.6.2",
-    "angular-route": "^1.6.2",
-    "shared-git-hooks": "^1.2.1"
+    "angular-route": "^1.6.2"
   }
 }
