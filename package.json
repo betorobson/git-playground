@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "install": "cp ./hooks/* .git/hooks/ && chmod -R a+X .git/hooks/"
   },
   "repository": {
     "type": "git",
