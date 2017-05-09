@@ -27,3 +27,8 @@ branch name: ta/fix/v/home
  - ta = Team A
  - v = View
  - home = Angular View Home
+
+### Example new unclassified feature 
+branch name: jd/mobile-swipe
+ - jd = John Due
+ - mobile-swipe = Suporte mobile swipe behavior
