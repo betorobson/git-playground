@@ -1,4 +1,7 @@
 
+var botao = require('botao/botao');
+var tela = require('tela/tela');
+
 var Module = (function(){
 
 	var test = true;
