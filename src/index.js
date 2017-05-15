@@ -2,6 +2,8 @@
 var botao = require('botao/botao');
 var tela = require('tela/tela');
 
+// [todo] split this modules in two parts
+
 var Module = (function(){
 
 	var test = true;
