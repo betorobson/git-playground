@@ -1,3 +1,3 @@
 var pop = function() {
-    alert('Olá!');
+    alert('Olá! Amigos!');
 };
