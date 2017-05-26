@@ -1,6 +1,7 @@
 
 var botao = require('botao/botao');
 var tela = require('tela/tela');
+var screen2 = require('screen2/screen2');
 
 // [todo] split this modules in two parts
 
