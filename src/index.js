@@ -1,5 +1,8 @@
 
 var botao = require('botao/botao');
+var testDiff = {
+	a:1
+};
 var tela = require('tela/tela');
 var screen2 = require('screen2/screen2');
 
