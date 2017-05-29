@@ -1,7 +1,7 @@
 
 var botao = require('botao/botao');
-var testDiff = {
-	a:1
+var testDiff3 = {
+	a3:3
 };
 var tela = require('tela/tela');
 var screen2 = require('screen2/screen2');
