@@ -1,3 +1,4 @@
 (function() {
-    alert('Hello git!')
+    alert('Hello git!');
+    alert('Uhuul!');
 })();
