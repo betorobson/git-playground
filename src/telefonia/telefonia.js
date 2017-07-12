@@ -1,4 +1,4 @@
-function teste()
-{
-alert("picudo")
-}
+
+alert("picudo");
+
+alert("picudao");
