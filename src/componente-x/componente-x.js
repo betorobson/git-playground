@@ -1,3 +1,3 @@
 var teste = () => {
-    console.log("teste");
+    console.log("corrigido ok");
 }
